@@ -3,6 +3,14 @@ import org.junit.Test;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/*
+* The  program implements an application of junit testing for user name,email,phone etc.
+*
+* @author  -deepak
+* @version -1.0
+* @since   -20/10/2021
+*/
+
 public class UserRegistration {
 
     @Test
